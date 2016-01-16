@@ -1,0 +1,3 @@
+[
+'小米桌面', '/software/item?docid=7232259&from=&f=list_software_502%401%4014'
+]

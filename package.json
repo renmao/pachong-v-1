@@ -1,0 +1,16 @@
+{
+  "title": "Jing Dong",
+  "name": "my-addon",
+  "version": "0.0.2",
+  "description": "A basic add-on to crawle songthing",
+  "main": "index.js",
+  "author": "",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
